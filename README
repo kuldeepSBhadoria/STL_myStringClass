@@ -1,3 +1,4 @@
+//This project I created in Netbeans IDE, You can directly copy main.cpp file and compile on linux
 Creating STL String class .
 Created three functions for
 1. ' = ' //assignment or copy operator
