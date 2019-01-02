@@ -1,0 +1,6 @@
+Creating STL String class .
+Created three functions for
+1. ' = ' //assignment or copy operator
+2. '+'  //COncat operator
+3. ' == ' //COmparision operator
+
